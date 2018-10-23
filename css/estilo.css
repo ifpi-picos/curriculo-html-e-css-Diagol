@@ -1,0 +1,51 @@
+body{
+    margin: 0%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color: #f7d6f4;
+    height: 115px;
+    width: 98.5%;
+    font-size: 30px;
+    text-align: right;
+    padding: 10px;
+    color: black;
+}
+
+main{
+    /*background-color:white;*/
+    padding: 10px;
+    width: 60%;
+
+}
+
+/*classe*/
+.left {
+    float:left; 
+    margin-left:0; 
+    /*margin-right:40px;*/
+    margin-bottom:10px;
+}
+
+/*classe main x aside*/
+.alinhamento{
+    word-wrap: break-word;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.divMain{
+    background-color: antiquewhite;
+    text-align: center;
+}
+aside{
+    background-color: brown;
+    height: 440px;
+    width: 38.1%;
+
+}
+
+footer{
+    background-color: aliceblue;
+    
+}
